@@ -1,3 +1,4 @@
+'''
 Lab_7/
 ├─ domain/                     # Доменный слой
 │  ├─ __init__.py
@@ -21,3 +22,4 @@ Lab_7/
 │  └─ test_pay_order.py        # Тесты use-case и доменных инвариантов
 │
 └─ README.md
+'''
